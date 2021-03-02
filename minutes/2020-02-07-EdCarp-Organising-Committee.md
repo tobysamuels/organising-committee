@@ -24,6 +24,9 @@ _Apologies: Sara Tilley_
 
 ## Actions ongoing
 
+^^Marked text^^
+==Marked text==
+
 ==Marked text==
 <mark>Marked text</mark>
 <mark style="background-color: lightblue">Marked text</mark>
