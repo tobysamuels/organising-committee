@@ -2,12 +2,12 @@
 
 ## Attendees
 
-* Jen
-* Giacomo
-* David
-* Ed
+* Jen Daub
+* Giacomo Peru
+* David McKain
+* Edward Wallace
 
-## Actions arising/ recommendations/ issues raised
+## Agenda/ UPDATES/ recommendations/ issues raised
 
 
 - David: try to be more regular, more holistic (about the lesson scheduling).
@@ -52,7 +52,7 @@ For Member Organisations and Instructors:
 * Decide about how to approach the lessons, what pace, what to cut etc.
 
 
-## AOB
+## AOBs
 
 ## DoNM
 
