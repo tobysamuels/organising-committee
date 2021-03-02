@@ -24,19 +24,34 @@ _Apologies: Sara Tilley_
 
 ## Actions ongoing
 
-^^Marked text^^
-==Marked text==
 
-==Marked text==
-<mark>Marked text</mark>
-<mark style="background-color: lightblue">Marked text</mark>
 
 ## Actions completed
+
+**Previous Actions**
+
+* **Action:** Jen to get everyone at meeting on Admin for our Events stream.
+  * Done 
+* **Action:** Matthew is going to lead on setting up the first example. 
+  * Deprecated
+
+
 
 ## Summary update on development progress and pull requests
 
 ## Towards next meeting/ Action plan
 
+**New Actions**
+
+* **Action:** David to provide mail templates to send out to attendees and rationalise the information about the set-up.
+* **Action:** Giacomo and Toni to meet before Toni’s meeting with the chemistry PG taught master organiser. DONE
+* **Action:** Sara to inform Peter MacCallum about the instructor training taking place. DONE.
+* **Action:** send out email to form 3 working groups:
+  * Set-up the future curriculum.
+  * Set-up the process.
+  * Improving lessons and helping out instructors.
+* **Action:** Giacomo to organise access to Mailchimp or to create a new EdCarp account.
+* **Someone:** elaborate a process for handling requests of workshops coming from everywhere in the university
 
 ## AOBs
 
