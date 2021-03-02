@@ -73,8 +73,8 @@ All moved online. Programme:
 
 * Teaching & Learning Conference (Jen/Graeme)
 * We are waiting to hear about the destiny of the conference.
-* Principal Teaching Awards (Giacomo) STALLED
-* Institute for Academic Development (Edward) STALLED
+* Principal Teaching Awards (Giacomo) [STALLED]
+* Institute for Academic Development (Edward) [STALLED]
 
 ## AOBs
 
