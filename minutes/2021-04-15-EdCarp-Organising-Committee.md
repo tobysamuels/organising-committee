@@ -3,6 +3,16 @@
 ## Attendees
 
 ## Actions
+* Update on Github migration (Bailey Harrington):
+        what has been done,
+        what is the status,
+        where to put things?
+* Plan Workshop (Magnus Hagdorn) -> dates?
+* Rerun of old workshop from Dec (Edward Wallace) -> dates?
+* Respond to Kenny (Lucia will draft a response and share with people)
+* Contact data team to ask if we can use university emails to contact people (Magnus Hagedorn)
+* Website check for issue and update proposal (Evgenij Belikov)
+
 
 ## Agenda
 * New members
