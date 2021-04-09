@@ -17,6 +17,7 @@
 ## Agenda
 * New members
   * Tahira Akbar
+  * Rober Nagy
   * Juan Herrera
 * Rota
 * Next planned workshops
