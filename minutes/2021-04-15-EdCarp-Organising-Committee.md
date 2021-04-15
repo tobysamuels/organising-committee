@@ -19,6 +19,7 @@
   * Tahira Akbar
   * Rober Nagy
   * Juan Herrera
+  * Steven Ford, Strathclyde
 * Rota
 * Next planned workshops
 * Documentation and infrastructure
