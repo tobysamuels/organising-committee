@@ -8,13 +8,14 @@
 * Giacomo Peru
 * Mario Antonioletti
 * Fransesca Baseby
-* Juan Rodriguez
+* Juan Rodriguez-Herrera
 * Matthew Hamilton
 * Evgenij Belikov
 * Tahira Akbar
 
 
 ## Actions
+- [ ] **Person** Action
 
 ## Agenda
 * Next planned workshops
