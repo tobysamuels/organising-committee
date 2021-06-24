@@ -7,7 +7,7 @@
 * David McKain
 * Giacomo Peru
 * Mario Antonioletti
-* Fransesca Baseby
+* Francesca Baseby
 * Juan Rodriguez-Herrera
 * Matthew Hamilton
 * Evgenij Belikov
@@ -19,6 +19,7 @@
 
 ## Agenda
 * Next planned workshops
+* Any plans to resume in-person teaching
 
 ## Notes
 
