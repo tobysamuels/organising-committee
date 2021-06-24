@@ -7,7 +7,7 @@
 * David McKain
 * Giacomo Peru
 * Mario Antonioletti
-* Fransesca Baseby
+* Francesca Baseby
 * Juan Rodriguez-Herrera
 * Matthew Hamilton
 * Evgenij Belikov
