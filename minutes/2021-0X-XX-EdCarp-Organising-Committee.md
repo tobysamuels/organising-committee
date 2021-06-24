@@ -2,6 +2,18 @@
 
 ## Attendees
 
+* Magnus Hagdorn (chair)
+* Steven Ford
+* David McKain
+* Giacomo Peru
+* Mario Antonioletti
+* Fransesca Baseby
+* Juan Rodriguez
+* Matthew Hamilton
+* Evgenij Belikov
+* Tahira Akbar
+
+
 ## Actions
 
 ## Agenda
