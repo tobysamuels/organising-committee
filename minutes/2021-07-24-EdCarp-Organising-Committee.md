@@ -20,6 +20,8 @@
 ## Agenda
 * Next planned workshops
 
+## Notes
+
 ## AOB
 * TA contracts for regular helpers who are postgrads at UoE
 
