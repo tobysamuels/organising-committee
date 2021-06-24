@@ -1,4 +1,4 @@
-# EdCarp Organising Committee Meeting TBD
+# EdCarp Organising Committee Meeting - 24 June 2021
 
 ## Attendees
 
