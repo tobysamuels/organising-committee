@@ -58,10 +58,10 @@ The committee can act as a connection to others involved in HE/science research 
 I live in Glasgow and work at the Uni of Strathclyde.
 
 ### Evgenij Belikov:
-The focus of the organising committee is on building local and Scotland-wide Carpentries communities through the following: organising Carpentries workshops, organising Instructor Trainings, Community events (recruiting new helpers and instructors), liaising with relevant university bodies to join Carpentries as a Member institution, connecting with different Programming/Data Science initiatives across schools/departments. Another goal, which is now perhaps better covered by the steering committee, is to connect with decision makers at the universities to increase recognition and ask for further support of our efforts.
-I can primarily help with running Carpentries and Instructor Training workshops.
-Committee has always been a source of ideas, knowledge and motivation. 
-I live in Edinburgh and work at the Uni of Edinburgh.
+1. The focus of the organising committee is on building local and Scotland-wide Carpentries communities through the following: organising Carpentries workshops, organising Instructor Trainings, Community events (recruiting new helpers and instructors), liaising with relevant university bodies to join Carpentries as a Member institution, connecting with different Programming/Data Science initiatives across schools/departments. Another goal, which is now perhaps better covered by the steering committee, is to connect with decision makers at the universities to increase recognition and ask for further support of our efforts.
+2. I can primarily help with running Carpentries and Instructor Training workshops.
+3. Committee has always been a source of ideas, knowledge and motivation. 
+4. I live in Edinburgh and work at the Uni of Edinburgh.
 
 
 ## Meeting zoom chat:
