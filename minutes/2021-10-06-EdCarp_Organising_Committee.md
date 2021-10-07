@@ -3,7 +3,7 @@ A proposal to develop a Roles/Responsibilities document
 
 ## Attendees
 
-Magnus Hagdorn, Steve Ford, David McKain, Lucia Michielin, Graeme Grimes, Tahira Akbar, Toby Samuels, Evgenji Belikov, Tahia Akbar, Juan Herrera
+Magnus Hagdorn, Steve Ford, David McKain, Lucia Michielin, Graeme Grimes, Tahira Akbar, Toby Samuels, Evgenji Belikov, Juan Herrera
 
 ## Declined, Apologies and Tentative 
 
