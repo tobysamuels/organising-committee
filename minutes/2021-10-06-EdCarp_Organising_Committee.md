@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1oXd6Zc5cZhy9B4v60QiKXeU3ayn4z96h2abNxSdogMo/
 At some point the list will be transfered to github.
 
 ## AOB
-Steve to organise the next meeting for early October. 
+Steve to organise the next meeting for early December. 
 
 # Committee member survey
 
