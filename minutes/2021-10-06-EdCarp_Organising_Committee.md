@@ -72,6 +72,7 @@ I live in Glasgow and work at the Uni of Strathclyde.
 
 
 ## Meeting zoom chat:
+```
 15:32:11 From  Graeme Grimes  to  Everyone:
 	Hi all, sorry no video or mic today
 15:33:35 From  Graeme Grimes  to  Everyone:
@@ -106,4 +107,5 @@ I live in Glasgow and work at the Uni of Strathclyde.
 	Thanks
 16:12:57 From  Lucia Michielin  to  Everyone:
 	thanks see you all soon!
+```
 
