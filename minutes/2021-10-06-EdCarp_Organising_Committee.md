@@ -66,9 +66,15 @@ I live in Glasgow and work at the Uni of Strathclyde.
 
 ### Graeme Grimes
 1. The committee plans SWC/DC/LC workshops and meets to exchange ideas and seek helpers and instructors.
-1. I can help with the meeting planning and workshops at the IGC.
-1. Helps me keep up to-date with Ed-Carp activities and get helpers for Carpentries courses.
-1. I live in Edinburgh and work at the Institute of Genetics and Cancer, College of Medicine,  Uni of Edinburgh.
+2. I can help with the meeting planning and workshops at the IGC.
+3. Helps me keep up to-date with Ed-Carp activities and get helpers for Carpentries courses.
+4. I live in Edinburgh and work at the Institute of Genetics and Cancer, College of Medicine,  Uni of Edinburgh.
+
+### Toby Samuels
+1. The committee enables information/idea sharing and communication to facilitate SWC, DC and LC workshops, primarily through attracting helpers and instructors. Effective communication and information sharing through the creation and maintenance of shared documents allows planning several months in advance to be achieved and redundant repetition of workshops to be avoid (i.e. foster collaboration between interested instructors/helpers). 
+2. I am new to the committee and do yet have experience of helping/instructoring on any Carpentry workshops. I am looking for opportunities to be a helper on Data Carpentry workshops that run in R. I am also interested in training to become a workshop instructor.  
+3. In my role as a Researcher Development Coordinator at Heriot-Watt University, it is my responsibility to provide access to training on data analysis and software design/management to researchers (PhD, Post-Doc, Academic Staff) within HWU. I am looking a) for upcoming workshops that are openly available which I can advertise to students/staff at HWU and b) to find instructors and helpers within this community to help organise workshops that HWU students/staff can attend.
+4. I live in Edinburgh and work at the Research Futures Academy, Heriot Watt University.         
 
 
 ## Meeting zoom chat:
