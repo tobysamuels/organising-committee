@@ -64,6 +64,13 @@ I live in Glasgow and work at the Uni of Strathclyde.
 4. I live in Edinburgh and work at the Uni of Edinburgh.
 
 
+### Graeme Grimes
+1. The committee plans SWC/DC/LC workshops and meets to exchange ideas and seek helpers and instructors.
+1. I can help with the meeting planning and workshops at the IGC.
+1. Helps me keep up to-date with Ed-Carp activities and get helpers for Carpentries courses.
+1. I live in Edinburgh and work at the Institute of Genetics and Cancer, College of Medicine,  Uni of Edinburgh.
+
+
 ## Meeting zoom chat:
 15:32:11 From  Graeme Grimes  to  Everyone:
 	Hi all, sorry no video or mic today
