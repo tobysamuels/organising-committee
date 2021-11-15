@@ -72,7 +72,7 @@ I live in Glasgow and work at the Uni of Strathclyde.
 
 
 ## Meeting zoom chat:
-```
+```sh-session
 15:32:11 From  Graeme Grimes  to  Everyone:
 	Hi all, sorry no video or mic today
 15:33:35 From  Graeme Grimes  to  Everyone:
